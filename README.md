@@ -27,12 +27,10 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Gerardo Velazquez, tengo 34 años.
+Me gusta la programación orientada a los videojuegos, no llegué a inscribirme en esa tecnicatura pero igualmente me gusta esta así que la voy a seguir hasta terminarla
+Me dedico a mi familia. Trabajo de forma remota como freelancer, lo que me da la posibilidad de estudiar y trabajar, además de cuidar a mi nene de 6.
+Estoy ansioso por terminar pronto la carrera. Éxitos para todos! 
 
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
 
 ![subir archivo de imagen](imagen.jpg)
